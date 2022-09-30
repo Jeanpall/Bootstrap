@@ -1,0 +1,21 @@
+#enc{
+    background-color: darkslategray;
+}
+#col1{
+    background-color: rgb(255, 255, 255);
+}
+#img{
+    height: 216px;
+}
+#texto{
+    float: left;
+}
+
+#col5{
+    border: 3px solid white;
+    float: left;
+}
+#col6{
+    border: 3px solid white;
+    float: right;
+}
