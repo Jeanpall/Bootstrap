@@ -1,0 +1,53 @@
+/* Tipo letra, Color, Tamaño */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#col1 {
+    height: 550px;
+}
+
+#col2 {
+    height: 550px;
+}
+
+#arriba1 {
+    margin-top: 10px;
+    height: 500px;
+    width: 850px;
+}
+
+#arriba2 {
+    margin-top: 10px;;
+    height: 500px;
+    width: 400px;
+}
+
+#arriba {
+    margin-top: 10px;
+    height: 300px;
+    width: 850px;
+}
+
+#arriba {
+    margin-top: 10px;;
+    height: 300px;
+    width: 400px;
+}
+
+#arriba {
+    margin-top: 10px;
+    height: 300px;
+    width: 850px;
+}
+
